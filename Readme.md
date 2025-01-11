@@ -1,6 +1,6 @@
 # Teste | Teste logico
 
-Repositório para armazenar codigos fonte de soluções de problemas com foco na lógica de prpgramação.
+Repositório para armazenar codigos fonte de soluções de problemas com foco na lógica de programação.
 
 ## 📔 Documentação
 
